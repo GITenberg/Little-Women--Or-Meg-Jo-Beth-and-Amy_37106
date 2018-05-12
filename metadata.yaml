@@ -1,0 +1,50 @@
+_repo: Little-Women--Or-Meg-Jo-Beth-and-Amy_37106
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 37106-h/images/cover.png
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: Chronicles the joys and sorrows of the four March sisters as they grow
+  into young ladies in nineteenth-century New England.
+gutenberg_issued: '2011-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PZ'
+- !lcsh 'March family (Fictitious characters) -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Family life -- New England -- Fiction'
+title: Little Women; Or, Meg, Jo, Beth, and Amy
+url: http://www.gutenberg.org/ebooks/37106
