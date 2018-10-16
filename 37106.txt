@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of Little Women, by Louisa M. Alcott
+﻿The Project Gutenberg EBook of Little Women, by Louisa M. Alcott
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -14,19 +14,19 @@ Author: Louisa M. Alcott
 Illustrator: Frank T. Merrill
 
 Release Date: August 16, 2011 [EBook #37106]
+Last Update:  August 8, 2017
 
 Language: English
 
-Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK LITTLE WOMEN ***
 
 
 
 
-Produced by David Edwards, Ernest Schaal, and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
+Produced by David Edwards, Ernest Schaal, Robert Homa and the 
+Online Distributed Proofreading Team at http://www.pgdp.net 
+(This file was produced from images generously made available
 by The Internet Archive)
 
 
@@ -124,7 +124,7 @@ Beth at her feet"
 
             CHAPTER                                         PAGE
 
-         I. PLAYING PILGRIMS                                   7
+         I. PLAYING PILGRIMS                                   1
 
         II. A MERRY CHRISTMAS                                 15
 
@@ -1656,7 +1656,7 @@ get you any more this winter. Can't you make them do?" asked Meg
 anxiously.
 
 "I can hold them crumpled up in my hand, so no one will know how stained
-they are: that's all I can do. No! I'll tell you how we can manage--each
+they are; that's all I can do. No! I'll tell you how we can manage--each
 wear one good one and carry a bad one; don't you see?"
 
 "Your hands are bigger than mine, and you will stretch my glove
@@ -1781,7 +1781,7 @@ roam about and amuse herself, for the burnt breadth would show, so she
 stared at people rather forlornly till the dancing began. Meg was asked
 at once, and the tight slippers tripped about so briskly that none would
 have guessed the pain their wearer suffered smilingly. Jo saw a big
-redheaded youth approaching her corner, and fearing he meant to engage
+red-headed youth approaching her corner, and fearing he meant to engage
 her, she slipped into a curtained recess, intending to peep and enjoy
 herself in peace. Unfortunately, another bashful person had chosen the
 same refuge; for, as the curtain fell behind her, she found herself face
@@ -2730,7 +2730,7 @@ What a cosy room this is!"
 know how to make them mind. It worries me, though."
 
 "I'll right it up in two minutes; for it only needs to have the hearth
-brushed, so,--and the things made straight on the mantelpiece so,--and
+brushed, so,--and the things made straight on the mantel-piece so,--and
 the books put here, and the bottles there, and your sofa turned from the
 light, and the pillows plumped up a bit. Now, then, you're fixed."
 
@@ -3342,7 +3342,7 @@ who thought the old-fashioned address very elegant.
     remind me of the gentle giver. I like to pay my debts; so I
     know you will allow "the old gentleman" to send you something
     which once belonged to the little granddaughter he lost. With
-    hearty thanks and best wishes, I remain--
+    hearty thanks and best wishes, I remain,
 
     "'Your grateful friend and humble servant,
 
@@ -3643,7 +3643,7 @@ girls arrived, some time later, an indignation meeting was held at
 once. Mrs. March did not say much, but looked disturbed, and comforted
 her afflicted little daughter in her tenderest manner. Meg bathed the
 insulted hand with glycerine and tears; Beth felt that even her beloved
-kittens would fail as a balm for griefs like this; Jo wrath fully
+kittens would fail as a balm for griefs like this; Jo wrathfully
 proposed that Mr. Davis be arrested without delay; and Hannah shook her
 fist at the "villain," and pounded potatoes for dinner as if she had him
 under her pestle.
@@ -4460,7 +4460,7 @@ demurely,--
 
 "You are very kind, but I'm afraid he won't come."
 
-"Why not, _cherie_?" asked Miss Belle.
+"Why not, _chérie_?" asked Miss Belle.
 
 "He's too old."
 
@@ -4543,7 +4543,7 @@ On the Thursday evening, Belle shut herself up with her maid; and,
 between them, they turned Meg into a fine lady. They crimped and curled
 her hair, they polished her neck and arms with some fragrant powder,
 touched her lips with coralline salve, to make them redder, and Hortense
-would have added "a _soupcon_ of rouge," if Meg had not rebelled. They
+would have added "a _soupçon_ of rouge," if Meg had not rebelled. They
 laced her into a sky-blue dress, which was so tight she could hardly
 breathe, and so low in the neck that modest Meg blushed at herself in
 the mirror. A set of silver filagree was added, bracelets, necklace,
@@ -4555,7 +4555,7 @@ wish of her heart. A laced handkerchief, a plumy fan, and a bouquet in a
 silver holder finished her off; and Miss Belle surveyed her with the
 satisfaction of a little girl with a newly dressed doll.
 
-"Mademoiselle is charmante, tres jolie, is she not?" cried Hortense,
+"Mademoiselle is charmante, très jolie, is she not?" cried Hortense,
 clasping her hands in an affected rapture.
 
 "Come and show yourself," said Miss Belle, leading the way to the room
@@ -4766,7 +4766,7 @@ good-night.
 "Remember!" she said, trying to smile, for the splitting headache had
 already begun.
 
-"Silence a la mort," replied Laurie, with a melodramatic flourish, as he
+"Silence à la mort," replied Laurie, with a melodramatic flourish, as he
 went away.
 
 This little bit of by-play excited Annie's curiosity; but Meg was too
@@ -4922,7 +4922,7 @@ the best and most honored women I know were poor girls, but so
 love-worthy that they were not allowed to be old maids. Leave these
 things to time; make this home happy, so that you may be fit for homes
 of your own, if they are offered you, and contented here if they are
-not. One thing remember, my girls; mother is always ready to be your
+not. One thing remember, my girls: mother is always ready to be your
 confidant, father to be your friend; and both of us trust and hope that
 our daughters, whether married or single, will be the pride and comfort
 of our lives."
@@ -5153,7 +5153,7 @@ properly, began to read:--
     he can't write out of his head as he has so many lessons to do
     and no brains in future I will try to take time by the fetlock
     and prepare some work which will be all _commy la fo_ that means
-    all right I am in haste as it is nearly school time.
+    all right I am in haste as it is nearly school time
 
     Yours respectably,                                    N. WINKLE.
 
@@ -5449,13 +5449,13 @@ to be particular about one's parts of speech," murmured Jo.
 with tact.
 
 "I shall lie abed late, and do nothing," replied Meg, from the depths of
-the rocking-chair. "I've been routed up early all winter and had to
+the rocking-chair. "I've been routed up early all winter, and had to
 spend my days working for other people; so now I'm going to rest and
 revel to my heart's content."
 
 "No," said Jo; "that dozy way wouldn't suit me. I've laid in a heap of
 books, and I'm going to improve my shining hours reading on my perch in
-the old apple-tree, when I'm not having l----"
+the old apple-tree, when I'm not having l------"
 
 "Don't say 'larks!'" implored Amy, as a return snub for the "samphire"
 correction.
@@ -5524,7 +5524,7 @@ tempers; an unsettled feeling possessed every one, and Satan found
 plenty of mischief for the idle hands to do. As the height of luxury,
 Meg put out some of her sewing, and then found time hang so heavily that
 she fell to snipping and spoiling her clothes, in her attempts to
-furbish them up a la Moffat. Jo read till her eyes gave out, and she was
+furbish them up à la Moffat. Jo read till her eyes gave out, and she was
 sick of books; got so fidgety that even good-natured Laurie had a
 quarrel with her, and so reduced in spirits that she desperately wished
 she had gone with Aunt March. Beth got on pretty well, for she was
@@ -6030,7 +6030,7 @@ broom.
 
 When the sun peeped into the girls' room early next morning, to promise
 them a fine day, he saw a comical sight. Each had made such preparation
-for the fete as seemed necessary and proper. Meg had an extra row of
+for the fête as seemed necessary and proper. Meg had an extra row of
 little curl-papers across her forehead, Jo had copiously anointed her
 afflicted face with cold cream, Beth had taken Joanna to bed with her to
 atone for the approaching separation, and Amy had capped the climax by
@@ -6114,13 +6114,13 @@ Meg, in the other boat, was delightfully situated, face to face with the
 rowers, who both admired the prospect, and feathered their oars with
 uncommon "skill and dexterity." Mr. Brooke was a grave, silent young
 man, with handsome brown eyes and a pleasant voice. Meg liked his quiet
-manners, and considered him a walking encyclopaedia of useful knowledge.
+manners, and considered him a walking encyclopædia of useful knowledge.
 He never talked to her much; but he looked at her a good deal, and she
 felt sure that he did not regard her with aversion. Ned, being in
 college, of course put on all the airs which Freshmen think it their
 bounden duty to assume; he was not very wise, but very good-natured, and
 altogether an excellent person to carry on a picnic. Sallie Gardiner was
-absorbed in keeping her white pique dress clean, and chattering with the
+absorbed in keeping her white piqué dress clean, and chattering with the
 ubiquitous Fred, who kept Beth in constant terror by his pranks.
 
 It was not far to Longmeadow; but the tent was pitched and the wickets
@@ -6589,7 +6589,7 @@ innocently,--
 There was a queer smile about Mr. Brooke's mouth as he opened at poor
 Mary's lament.
 
-Meg obediently following the long grass-blade which her new tutor used
+Meg, obediently following the long grass-blade which her new tutor used
 to point with, read slowly and timidly, unconsciously making poetry of
 the hard words by the soft intonation of her musical voice. Down the
 page went the green guide, and presently, forgetting her listener in the
@@ -6743,7 +6743,7 @@ warbled a serenade with the pensive refrain,--
 
 and at the lines--
 
-        "We each are young, we each have a heart,
+       "We each are young, we each have a heart,
         Oh, why should we stand thus coldly apart?"
 
 he looked at Meg with such a lackadaisical expression that she laughed
@@ -7242,10 +7242,10 @@ away to town, looking very merry and mysterious.
 If any one had been watching her, he would have thought her movements
 decidedly peculiar; for, on alighting, she went off at a great pace till
 she reached a certain number in a certain busy street; having found the
-place with some difficulty, she went into the doorway, looked up the
+place with some difficulty, she went into the door-way, looked up the
 dirty stairs, and, after standing stock still a minute, suddenly dived
 into the street, and walked away as rapidly as she came. This
-manoeuvre she repeated several times, to the great amusement of a
+manœuvre she repeated several times, to the great amusement of a
 black-eyed young gentleman lounging in the window of a building
 opposite. On returning for the third time, Jo gave herself a shake,
 pulled her hat over her eyes, and walked up the stairs, looking as if
@@ -7255,7 +7255,7 @@ There was a dentist's sign, among others, which adorned the entrance,
 and, after staring a moment at the pair of artificial jaws which slowly
 opened and shut to draw attention to a fine set of teeth, the young
 gentleman put on his coat, took his hat, and went down to post himself
-in the opposite doorway, saying, with a smile and a shiver,--
+in the opposite door-way, saying, with a smile and a shiver,--
 
 "It's like her to come alone, but if she has a bad time she'll need some
 one to help her home."
@@ -7813,7 +7813,7 @@ life.
 "Jo, run to the rooms, and tell Mrs. King that I can't come. On the way
 get these things. I'll put them down; they'll be needed, and I must go
 prepared for nursing. Hospital stores are not always good. Beth, go and
-ask Mr. Laurence for a couple of bottles of old wine; I'm not too proud
+ask Mr. Laurence for a couple of bottles of old wine: I'm not too proud
 to beg for father; he shall have the best of everything. Amy, tell
 Hannah to get down the black trunk; and, Meg, come and help me find my
 things, for I'm half bewildered."
@@ -7868,14 +7868,14 @@ preparations, with her lips folded tightly, in a way which Jo would have
 understood if she had been there.
 
 The short afternoon wore away; all the other errands were done, and Meg
-and her mother busy at some necessary needlework, while Beth and Amy got
-tea, and Hannah finished her ironing with what she called a "slap and a
-bang," but still Jo did not come. They began to get anxious; and Laurie
-went off to find her, for no one ever knew what freak Jo might take into
-her head. He missed her, however, and she came walking in with a very
-queer expression of countenance, for there was a mixture of fun and
-fear, satisfaction and regret, in it, which puzzled the family as much
-as did the roll of bills she laid before her mother, saying, with a
+and her mother busy at some necessary needle-work, while Beth and Amy
+got tea, and Hannah finished her ironing with what she called a "slap
+and a bang," but still Jo did not come. They began to get anxious; and
+Laurie went off to find her, for no one ever knew what freak Jo might
+take into her head. He missed her, however, and she came walking in with
+a very queer expression of countenance, for there was a mixture of fun
+and fear, satisfaction and regret, in it, which puzzled the family as
+much as did the roll of bills she laid before her mother, saying, with a
 little choke in her voice, "That's my contribution towards making
 father comfortable and bringing him home!"
 
@@ -8189,7 +8189,7 @@ father, dear," she added, as they parted.
 looks very boyish and nice," returned Meg, trying not to smile at the
 curly head, which looked comically small on her tall sister's shoulders.
 
-"That's my only comfort;" and, touching her hat _a la_ Laurie, away went
+"That's my only comfort;" and, touching her hat _à la_ Laurie, away went
 Jo, feeling like a shorn sheep on a wintry day.
 
 News from their father comforted the girls very much; for, though
@@ -8486,7 +8486,7 @@ hand as if to warn her off, and asked quickly,--
 
 "You've had the scarlet fever, haven't you?"
 
-"Year's ago, when Meg did. Why?"
+"Years ago, when Meg did. Why?"
 
 "Then I'll tell you. Oh, Jo, the baby's dead!"
 
@@ -8514,7 +8514,7 @@ dead."
 said it was dead, and looked at Heinrich and Minna, who have got sore
 throats. 'Scarlet fever, ma'am. Ought to have called me before,' he said
 crossly. Mrs. Hummel told him she was poor, and had tried to cure baby
-herself, but now it was too late, and she could only ask him so help the
+herself, but now it was too late, and she could only ask him to help the
 others, and trust to charity for his pay. He smiled then, and was
 kinder; but it was very sad, and I cried with them till he turned round,
 all of a sudden, and told me to go home and take belladonna right away,
@@ -8790,7 +8790,7 @@ good wishes, and even those who knew her best were surprised to find how
 many friends shy little Beth had made.
 
 Meanwhile she lay on her bed with old Joanna at her side, for even in
-her wanderings she did not forget her forlorn _protege_. She longed for
+her wanderings she did not forget her forlorn _protégé_. She longed for
 her cats, but would not have them brought, lest they should get sick;
 and, in her quiet hours, she was full of anxiety about Jo. She sent
 loving messages to Amy, bade them tell her mother that she would write
@@ -9397,7 +9397,7 @@ us, and her best love to grandpa. _She_ never thought of a will."
 
 Laurie was signing and sealing as he spoke, and did not look up till a
 great tear dropped on the paper. Amy's face was full of trouble; but she
-only said, "Don't people put sort of postscrips to their wills,
+only said, "Don't people put sort of postscripts to their wills,
 sometimes?"
 
 "Yes; 'codicils,' they call them."
@@ -10183,7 +10183,7 @@ much."
 Jo tried to look pathetic, but must have failed, for Mr. Laurence began
 to laugh, and she knew the day was won.
 
-"I'm sorry for that, and ought to thank him for not shaking me, I
+"I'm sorry for that, and ought to thank him for not shaking _me_, I
 suppose. What the dickens does the fellow expect?" and the old gentleman
 looked a trifle ashamed of his own testiness.
 
@@ -10956,7 +10956,7 @@ congratulations.
 
 "Much obliged for that recommendation. I take it as a good omen for the
 future, and invite you to my wedding on the spot," answered Mr. Brooke,
-who felt at peace with all mankind even his mischievous pupil.
+who felt at peace with all mankind, even his mischievous pupil.
 
 "I'll come if I'm at the ends of the earth; for the sight of Jo's face
 alone, on that occasion, would be worth a long journey. You don't look
@@ -11056,7 +11056,7 @@ shut him out from the more worldly successes, attracted to him many
 admirable persons, as naturally as sweet herbs draw bees, and as
 naturally he gave them the honey into which fifty years of hard
 experience had distilled no bitter drop. Earnest young men found the
-grayheaded scholar as young at heart as they; thoughtful or troubled
+gray-headed scholar as young at heart as they; thoughtful or troubled
 women instinctively brought their doubts and sorrows to him, sure of
 finding the gentlest sympathy, the wisest counsel; sinners told their
 sins to the pure-hearted old man, and were both rebuked and saved;
@@ -11090,7 +11090,7 @@ discharge, he devoted himself to getting well, preparing for business,
 and earning a home for Meg. With the good sense and sturdy independence
 that characterized him, he refused Mr. Laurence's more generous offers,
 and accepted the place of book-keeper feeling better satisfied to begin
-with an honestly-earned salary than by running any risks with borrowed
+with an honestly-earned salary, than by running any risks with borrowed
 money.
 
 Meg had spent the time in working as well as waiting, growing womanly in
@@ -11258,7 +11258,7 @@ keep me from getting lazy or homesick," answered Meg tranquilly.
 
 "If Meg had four the house wouldn't hold them, and master and missis
 would have to camp in the garden," broke in Jo, who, enveloped in a big
-blue pinafore, was giving the last polish to the doorhandles.
+blue pinafore, was giving the last polish to the door-handles.
 
 "Sallie isn't a poor man's wife, and many maids are in keeping with her
 fine establishment. Meg and John begin humbly, but I have a feeling that
@@ -11731,7 +11731,7 @@ example without a murmur. Mr. and Mrs. March, Aunt and Uncle Carrol,
 began it; others rapidly joined in; even Sallie Moffat, after a moment's
 hesitation, threw her train over her arm, and whisked Ned into the ring.
 But the crowning joke was Mr. Laurence and Aunt March; for when the
-stately old gentleman _chasseed_ solemnly up to the old lady, she just
+stately old gentleman _chasséed_ solemnly up to the old lady, she just
 tucked her cane under her arm, and hopped briskly away to join hands
 with the rest, and dance about the bridal pair, while the young folks
 pervaded the garden, like butterflies on a midsummer day.
@@ -11913,7 +11913,7 @@ Mrs. March laughed, and smoothed down her maternal pride as she asked,--
 
 "I should like to ask the girls out to lunch next week, to take them a
 drive to the places they want to see, a row on the river, perhaps, and
-make a little artistic _fete_ for them."
+make a little artistic _fête_ for them."
 
 "That looks feasible. What do you want for lunch? Cake, sandwiches,
 fruit, and coffee will be all that is necessary, I suppose?"
@@ -11932,7 +11932,7 @@ about."
 
 "Why, mother, how _can_ you think of such a thing? Not more than six or
 eight will probably come, so I shall hire a beach-wagon, and borrow Mr.
-Laurence's cherry-bounce." (Hannah's pronunciation of _char-a-banc_.)
+Laurence's cherry-bounce." (Hannah's pronunciation of _char-à-banc_.)
 
 "All this will be expensive, Amy."
 
@@ -11972,7 +11972,7 @@ it at first.
 turn the house upside down for a parcel of girls who don't care a
 sixpence for you? I thought you had too much pride and sense to truckle
 to any mortal woman just because she wears French boots and rides in a
-_coupe_," said Jo, who, being called from the tragical climax of her
+_coupé_," said Jo, who, being called from the tragical climax of her
 novel, was not in the best mood for social enterprises.
 
 "I _don't_ truckle, and I hate being patronized as much as you do!"
@@ -12156,7 +12156,7 @@ friend quietly about the neighborhood till sunset, when "the party went
 out."
 
 As she came walking in, looking very tired, but as composed as ever, she
-observed that every vestige of the unfortunate _fete_ had disappeared,
+observed that every vestige of the unfortunate _fête_ had disappeared,
 except a suspicious pucker about the corners of Jo's mouth.
 
 "You've had a lovely afternoon for your drive, dear," said her mother,
@@ -12200,7 +12200,7 @@ that it failed; I comfort myself with that," said Amy, with a little
 quiver in her voice. "I thank you all very much for helping me, and I'll
 thank you still more if you won't allude to it for a month, at least."
 
-No one did for several months; but the word "_fete_" always produced a
+No one did for several months; but the word "_fête_" always produced a
 general smile, and Laurie's birthday gift to Amy was a tiny coral
 lobster in the shape of a charm for her watch-guard.
 
@@ -12286,7 +12286,7 @@ lads, and soon found herself involved in the usual labyrinth of love,
 mystery, and murder, for the story belonged to that class of light
 literature in which the passions have a holiday, and when the author's
 invention fails, a grand catastrophe clears the stage of one half the
-_dramatis personae_, leaving the other half to exult over their downfall.
+_dramatis personæ_, leaving the other half to exult over their downfall.
 
 "Prime, isn't it?" asked the boy, as her eye went down the last
 paragraph of her portion.
@@ -12329,7 +12329,7 @@ they gave her some idea of dramatic effect, and supplied plot, language,
 and costumes. Her story was as full of desperation and despair as her
 limited acquaintance with those uncomfortable emotions enabled her to
 make it, and, having located it in Lisbon, she wound up with an
-earthquake, as a striking and appropriate _denouement_. The manuscript
+earthquake, as a striking and appropriate _dénouement_. The manuscript
 was privately despatched, accompanied by a note, modestly saying that if
 the tale didn't get the prize, which the writer hardly dared expect, she
 would be very glad to receive any sum it might be considered worth.
@@ -13242,7 +13242,7 @@ child."
 
 Amy looked relieved, but naughty Jo took her at her word; for, during
 the first call, she sat with every limb gracefully composed, every fold
-correctly draped, calm as a summer sea, cool as a snowbank, and as
+correctly draped, calm as a summer sea, cool as a snow-bank, and as
 silent as a sphinx. In vain Mrs. Chester alluded to her "charming
 novel," and the Misses Chester introduced parties, picnics, the opera,
 and the fashions; each and all were answered by a smile, a bow, and a
@@ -14206,7 +14206,7 @@ nothing but the summer sunshine dazzling on the sea.
     "We only stopped at Liverpool a few hours. It's a dirty, noisy
     place, and I was glad to leave it. Uncle rushed out and bought a
     pair of dog-skin gloves, some ugly, thick shoes, and an
-    umbrella, and got shaved _a la_ mutton-chop, the first thing.
+    umbrella, and got shaved _à la_ mutton-chop, the first thing.
     Then he flattered himself that he looked like a true Briton; but
     the first time he had the mud cleaned off his shoes, the little
     bootblack knew that an American stood in them, and said, with a
@@ -14369,7 +14369,7 @@ nothing but the summer sunshine dazzling on the sea.
 
     "Such delightful times as we are having! sight-seeing from
     morning till night, stopping for nice lunches in the gay
-    _cafes_, and meeting with all sorts of droll adventures. Rainy
+    _cafés_, and meeting with all sorts of droll adventures. Rainy
     days I spend in the Louvre, revelling in pictures. Jo would turn
     up her naughty nose at some of the finest, because she has no
     soul for art; but _I_ have, and I'm cultivating eye and taste as
@@ -14383,7 +14383,7 @@ nothing but the summer sunshine dazzling on the sea.
     "The Palais Royale is a heavenly place,--so full of _bijouterie_
     and lovely things that I'm nearly distracted because I can't buy
     them. Fred wanted to get me some, but of course I didn't allow
-    it. Then the Bois and the Champs Elysees are _tres magnifique_.
+    it. Then the Bois and the Champs Elysées are _très magnifique_.
     I've seen the imperial family several times,--the emperor an
     ugly, hard-looking man, the empress pale and pretty, but dressed
     in bad taste, _I_ thought,--purple dress, green hat, and yellow
@@ -14395,7 +14395,7 @@ nothing but the summer sunshine dazzling on the sea.
       [Illustration: I've seen the imperial family several times]
 
     "We often walk in the Tuileries Gardens, for they are lovely,
-    though the antique Luxembourg Gardens suit me better. Pere la
+    though the antique Luxembourg Gardens suit me better. Père la
     Chaise is very curious, for many of the tombs are like small
     rooms, and, looking in, one sees a table, with images or
     pictures of the dead, and chairs for the mourners to sit in
@@ -14503,7 +14503,7 @@ nothing but the summer sunshine dazzling on the sea.
     are alone, and frowns at any one else who ventures to speak to
     me. Yesterday, at dinner, when an Austrian officer stared at us,
     and then said something to his friend,--a rakish-looking
-    baron,--about '_ein wonderschoenes Bloendchen_,' Fred looked as
+    baron,--about '_ein wonderschönes Blöndchen_,' Fred looked as
     fierce as a lion, and cut his meat so savagely, it nearly flew
     off his plate. He isn't one of the cool, stiff Englishmen, but
     is rather peppery, for he has Scotch blood in him, as one might
@@ -15172,7 +15172,7 @@ bring you home."
     should shake them all round. Some good angel inspired me to try
     gymnastics, and I kept it up till they were glad to sit down and
     keep still. After luncheon, the girl took them out for a walk,
-    and I went to my needlework, like little Mabel, 'with a willing
+    and I went to my needle-work, like little Mabel, 'with a willing
     mind.' I was thanking my stars that I'd learned to make nice
     button-holes, when the parlor-door opened and shut, and some one
     began to hum,--
@@ -15490,7 +15490,7 @@ bring you home."
     "'Prut! we will make the time, and we fail not to find the
     sense. At efening I shall gif a little lesson with much
     gladness; for, look you, Mees Marsch, I haf this debt to pay,'
-    and he pointed to my work. "Yes," they say to one another, these
+    and he pointed to my work. 'Yes, they say to one another, these
     so kind ladies, "he is a stupid old fellow; he will see not what
     we do; he will never opserve that his sock-heels go not in holes
     any more, he will think his buttons grow out new when they fall,
@@ -15514,7 +15514,7 @@ bring you home."
     I'd covered myself with glory.
 
     "'Now we shall try a new way. You and I will read these pleasant
-    little Maerchen together, and dig no more in that dry book, that
+    little Märchen together, and dig no more in that dry book, that
     goes in the corner for making us trouble.'
 
     "He spoke so kindly, and opened Hans Andersen's fairy tales so
@@ -15628,7 +15628,7 @@ bring you home."
     remembered seeing me at one of the minor theatres. Meg will
     relish that joke. Mr. Bhaer was Nick Bottom, and Tina was
     Titania,--a perfect little fairy in his arms. To see them dance
-    was 'quite a landscape,' to use a Teddy-ism.
+    was 'quite a landscape,' to use a Teddyism.
 
     "I had a very happy New Year, after all; and when I thought it
     over in my room, I felt as if I was getting on a little in spite
@@ -15666,7 +15666,7 @@ indulge in the luxury of charity, had been for years Jo's most cherished
 castle in the air.
 
 The prize-story experience had seemed to open a way which might, after
-long travelling and much up-hill work lead to this delightful _chateau
+long travelling and much up-hill work lead to this delightful _château
 en Espagne_. But the novel disaster quenched her courage for a time, for
 public opinion is a giant which has frightened stouter-hearted Jacks on
 bigger bean-stalks than hers. Like that immortal hero, she reposed
@@ -15911,7 +15911,7 @@ America; and his homely, hard-working life was much beautified by the
 spice of romance which this discovery gave it.
 
 Another and a better gift than intellect was shown her in a most
-unexpected manner. Miss Norton had the _entree_ into literary society,
+unexpected manner. Miss Norton had the _entrée_ into literary society,
 which Jo would have had no chance of seeing but for her. The solitary
 woman felt an interest in the ambitious girl, and kindly conferred many
 favors of this sort both on Jo and the Professor. She took them with
@@ -15931,8 +15931,8 @@ ardor which flushed his intellectual countenance. Turning as from a
 fallen idol, she made other discoveries which rapidly dispelled her
 romantic illusions. The great novelist vibrated between two decanters
 with the regularity of a pendulum; the famous divine flirted openly with
-one of the Madame de Staels of the age, who looked daggers at another
-Corinne, who was amiably satirizing her, after out-manoeuvring her in
+one of the Madame de Staëls of the age, who looked daggers at another
+Corinne, who was amiably satirizing her, after out-manœuvring her in
 efforts to absorb the profound philosopher, who imbibed tea Johnsonianly
 and appeared to slumber, the loquacity of the lady rendering speech
 impossible. The scientific celebrities, forgetting their mollusks and
@@ -15942,7 +15942,7 @@ charming the city like a second Orpheus, talked horses; and the specimen
 of the British nobility present happened to be the most ordinary man of
 the party.
 
-Before the evening was half over, Jo felt so completely _desillusionee_,
+Before the evening was half over, Jo felt so completely _désillusionée_,
 that she sat down in a corner to recover herself. Mr. Bhaer soon joined
 her, looking rather out of his element, and presently several of the
 philosophers, each mounted on his hobby, came ambling up to hold an
@@ -16294,7 +16294,7 @@ going to propose when she had given them every reason to know what her
 answer would be, she set forth at the appointed time, hoping Teddy
 wouldn't do anything to make her hurt his poor little feelings. A call
 at Meg's, and a refreshing sniff and sip at the Daisy and Demijohn,
-still further fortified her for the _tete-a-tete_, but when she saw a
+still further fortified her for the _tête-à-tête_, but when she saw a
 stalwart figure looming in the distance, she had a strong desire to turn
 about and run away.
 
@@ -16567,7 +16567,7 @@ listen to praises of the last year's success, which to him now seemed
 love's labor lost. He bore it as long as he could, then went to his
 piano, and began to play. The windows were open; and Jo, walking in the
 garden with Beth, for once understood music better than her sister, for
-he played the "Sonata Pathetique," and played it as he never did before.
+he played the "Sonata Pathétique," and played it as he never did before.
 
 "That's very fine, I dare say, but it's sad enough to make one cry; give
 us something gayer, lad," said Mr. Laurence, whose kind old heart was
@@ -16958,7 +16958,7 @@ father and mother saw plainly, now, what they had prayed to be saved
 from seeing. Tired with her short journey, Beth went at once to bed,
 saying how glad she was to be at home; and when Jo went down, she found
 that she would be spared the hard task of telling Beth's secret. Her
-father stood leaning his head on the mantelpiece, and did not turn as
+father stood leaning his head on the mantel-piece, and did not turn as
 she came in; but her mother stretched out her arms as if for help, and
 Jo went to comfort her without a word.
 
@@ -17090,7 +17090,7 @@ She blushed with pleasure, but somehow the compliment did not satisfy
 her like the blunt praises he used to give her at home, when he
 promenaded round her on festival occasions, and told her she was
 "altogether jolly," with a hearty smile and an approving pat on the
-head. She didn't like the new tone; for, though not _blase_, it sounded
+head. She didn't like the new tone; for, though not _blasé_, it sounded
 indifferent in spite of the look.
 
 "If that's the way he's going to grow up, I wish he'd stay a boy," she
@@ -17207,7 +17207,7 @@ Having no ornaments fine enough for this important occasion, Amy looped
 her fleecy skirts with rosy clusters of azalea, and framed the white
 shoulders in delicate green vines. Remembering the painted boots, she
 surveyed her white satin slippers with girlish satisfaction, and
-_chasseed_ down the room, admiring her aristocratic feet all by herself.
+_chasséed_ down the room, admiring her aristocratic feet all by herself.
 
 "My new fan just matches my flowers, my gloves fit to a charm, and the
 real lace on aunt's _mouchoir_ gives an air to my whole dress. If I only
@@ -17261,7 +17261,7 @@ better."
 gloves for her, and asked if his tie was straight, just as he used to do
 when they went to parties together, at home.
 
-The company assembled in the long _salle a manger_, that evening, was
+The company assembled in the long _salle à manger_, that evening, was
 such as one sees nowhere but on the Continent. The hospitable Americans
 had invited every acquaintance they had in Nice, and, having no
 prejudice against titles, secured a few to add lustre to their Christmas
@@ -17354,7 +17354,7 @@ with Davises, and many Joneses gambolled like a flock of young giraffes.
 The golden secretary darted through the room like a meteor, with a
 dashing Frenchwoman, who carpeted the floor with her pink satin train.
 The Serene Teuton found the supper-table, and was happy, eating steadily
-through the bill of fare, and dismayed the _garcons_ by the ravages he
+through the bill of fare, and dismayed the _garçons_ by the ravages he
 committed. But the Emperor's friend covered himself with glory, for he
 danced everything, whether he knew it or not, and introduced impromptu
 pirouettes when the figures bewildered him. The boyish abandon of that
@@ -17381,7 +17381,7 @@ her some supper, she said to herself, with a satisfied smile,--
 
 "Ah, I thought that would do him good!"
 
-"You look like Balzac's 'Femme peinte par elle-meme,'" he said, as he
+"You look like Balzac's 'Femme peinte par elle-même,'" he said, as he
 fanned her with one hand, and held her coffee-cup in the other.
 
 "My rouge won't come off;" and Amy rubbed her brilliant cheek, and
@@ -17447,7 +17447,7 @@ both of them were unconsciously giving and receiving.
 
 
 In France the young girls have a dull time of it till they are married,
-when "_Vive la liberte_" becomes their motto. In America, as every one
+when "_Vive la liberté_" becomes their motto. In America, as every one
 knows, girls early sign the declaration of independence, and enjoy their
 freedom with republican zest; but the young matrons usually abdicate
 with the first heir to the throne, and go into a seclusion almost as
@@ -17499,7 +17499,7 @@ for an hour or two of an evening, when his own parlor was empty, and his
 own wife singing lullabies that seemed to have no end. Mrs. Scott was a
 lively, pretty girl, with nothing to do but be agreeable, and she
 performed her mission most successfully. The parlor was always bright
-and attractive, the chessboard ready, the piano in tune, plenty of gay
+and attractive, the chess-board ready, the piano in tune, plenty of gay
 gossip, and a nice little supper set forth in tempting style.
 
 John would have preferred his own fireside if it had not been so lonely;
@@ -18135,7 +18135,7 @@ figure."
 "With all the pleasure in life. How will you have me,--full-length or
 three-quarters, on my head or my heels? I should respectfully suggest a
 recumbent posture, then put yourself in also, and call it '_Dolce far
-niente_?'"
+niente._'"
 
 "Stay as you are, and go to sleep if you like. _I_ intend to work hard,"
 said Amy, in her most energetic tone.
@@ -18563,7 +18563,7 @@ But both felt ill at ease; the friendly frankness was disturbed, the
 sunshine had a shadow over it, and despite their apparent gayety, there
 was a secret discontent in the heart of each.
 
-"Shall we see you this evening, _mon frere_?" asked Amy as they parted
+"Shall we see you this evening, _mon frère_?" asked Amy as they parted
 at her aunt's door.
 
 "Unfortunately I have an engagement. _Au revoir, mademoiselle_," and
@@ -18894,7 +18894,7 @@ traitor; and, as if possessed by the perverse spirit of the girl, would
 only recall Jo's oddities, faults, and freaks, would only show her in
 the most unsentimental aspects,--beating mats with her head tied up in
 a bandanna, barricading herself with the sofa-pillow, or throwing cold
-water over his passion _a la_ Gummidge,--and an irresistible laugh
+water over his passion _à la_ Gummidge,--and an irresistible laugh
 spoilt the pensive picture he was endeavoring to paint. Jo wouldn't be
 put into the Opera at any price, and he had to give her up with a "Bless
 that girl, what a torment she is!" and a clutch at his hair, as became a
@@ -19117,7 +19117,7 @@ hope and suspense.
 
 He knew Vevay well; and as soon as the boat touched the little quay, he
 hurried along the shore to La Tour, where the Carrols were living _en
-pension_. The _garcon_ was in despair that the whole family had gone to
+pension_. The _garçon_ was in despair that the whole family had gone to
 take a promenade on the lake; but no, the blond mademoiselle might be in
 the chateau garden. If monsieur would give himself the pain of sitting
 down, a flash of time should present her. But monsieur could not wait
@@ -19258,7 +19258,7 @@ wary and slow in making a second trial; so Laurie let the days pass,
 enjoying every hour, and leaving to chance the utterance of the word
 that would put an end to the first and sweetest part of his new romance.
 
-He had rather imagined that the _denouement_ would take place in the
+He had rather imagined that the _dénouement_ would take place in the
 chateau garden by moonlight, and in the most graceful and decorous
 manner; but it turned out exactly the reverse, for the matter was
 settled on the lake, at noonday, in a few blunt words. They had been
@@ -19270,7 +19270,7 @@ below, dotted with the picturesque boats that look like white-winged
 gulls.
 
 They had been talking of Bonnivard, as they glided past Chillon, and of
-Rousseau, as they looked up at Clarens, where he wrote his "Heloise."
+Rousseau, as they looked up at Clarens, where he wrote his "Héloise."
 Neither had read it, but they knew it was a love-story, and each
 privately wondered if it was half as interesting as their own. Amy had
 been dabbling her hand in the water during the little pause that fell
@@ -19278,7 +19278,7 @@ between them, and, when she looked up, Laurie was leaning on his oars,
 with an expression in his eyes that made her say hastily, merely for the
 sake of saying something,--
 
-"You must be tired; rest a little, and let me row: it will do me good;
+"You must be tired; rest a little, and let me row; it will do me good;
 for, since you came, I have been altogether lazy and luxurious."
 
 "I'm not tired; but you may take an oar, if you like. There's room
@@ -20017,8 +20017,8 @@ become.
 whispered back, with a loving look at the worn face and gray head beside
 him.
 
-Daisy found it impossible to keep her eyes of her "pitty aunty," but
-attached herself like a lap-dog to the wonderful chatelaine full of
+Daisy found it impossible to keep her eyes off her "pitty aunty," but
+attached herself like a lap-dog to the wonderful châtelaine full of
 delightful charms. Demi paused to consider the new relationship before
 he compromised himself by the rash acceptance of a bribe, which took the
 tempting form of a family of wooden bears from Berne. A flank movement
@@ -20067,7 +20067,7 @@ Father Laurence's arm; the others paired off as before, and this
 arrangement left Jo companionless. She did not mind it at the minute,
 for she lingered to answer Hannah's eager inquiry,--
 
-"Will Miss Amy ride in her coop (_coupe_), and use all them lovely
+"Will Miss Amy ride in her coop (_coupé_), and use all them lovely
 silver dishes that's stored away over yander?"
 
 "Shouldn't wonder if she drove six white horses, ate off gold plate, and
@@ -20188,7 +20188,7 @@ been going a-wooing," said Jo to herself; and then a sudden thought,
 born of the words, made her blush so dreadfully that she had to drop her
 ball, and go down after it to hide her face.
 
-The manoeuvre did not succeed as well as she expected, however; for,
+The manœuvre did not succeed as well as she expected, however; for,
 though just in the act of setting fire to a funeral-pile, the Professor
 dropped his torch, metaphorically speaking, and made a dive after the
 little blue ball. Of course they bumped their heads smartly together,
@@ -20252,8 +20252,7 @@ to the mellow voice that seemed to sing for her alone.
 
                 [Illustration: Mr. Bhaer sang heartily]
 
-        "Know'st thou the land
-         where the citron blooms,"
+        "Know'st thou the land where the citron blooms,"
 
 used to be the Professor's favorite line, for "das land" meant Germany
 to him; but now he seemed to dwell, with peculiar warmth and melody,
@@ -20359,7 +20358,7 @@ Laurie's decision, and the energy with which he spoke.
 astonish you by the elegant hospitalities of our mansion, the brilliant
 society we shall draw about us, and the beneficial influence we shall
 exert over the world at large. That's about it, isn't it, Madame
-Recamier?" asked Laurie, with a quizzical look at Amy.
+Récamier?" asked Laurie, with a quizzical look at Amy.
 
 "Time will show. Come away, Impertinence, and don't shock my family by
 calling me names before their faces," answered Amy, resolving that there
@@ -20592,7 +20591,7 @@ worshippers.
 one hand, and her mug in the other, as if eager to embrace and nourish
 the whole world.
 
-As she grew, her mother began to feel that the Dovecote would be blest
+As she grew, her mother began to feel that the Dove-cote would be blest
 by the presence of an inmate as serene and loving as that which had
 helped to make the old house home, and to pray that she might be spared
 a loss like that which had lately taught them how long they had
@@ -20758,7 +20757,7 @@ shouted, "It's a We, dranpa, it's a We!"
 her nephew tried to stand on his head, as the only mode of expressing
 his satisfaction that school was over.
 
-"What have you been at to-day, buebchen?" asked Mr. Bhaer, picking up the
+"What have you been at to-day, bübchen?" asked Mr. Bhaer, picking up the
 gymnast.
 
 "Me went to see little Mary."
@@ -20981,7 +20980,7 @@ for his smile vanished, as he said gravely,--
 was in that short reply of his.
 
 "I ought to think so, for I haf a way opened to me by which I can make
-my bread and gif my Juenglings much help."
+my bread and gif my Jünglings much help."
 
 "Tell me, please! I like to know all about the--the boys," said Jo
 eagerly.
@@ -21926,6 +21925,9 @@ AUNT JO'S SCRAP-BAG
 
 
 LULU'S LIBRARY
+    =Volume 1=
+    =Volume 2=
+    =Volume 3=
 
 3 vols. Each, $1.00. The set uniformly bound in cloth, gilt, in box,
 $3.00.
@@ -22182,7 +22184,6 @@ MORNING GLORIES AND QUEEN ASTOR. Illustrated. 12mo. 50 cents.
     never before learned to appreciate justly.
 
 THE LITTLE MEN PLAY.
-
 THE LITTLE WOMEN PLAY.
 
     Adapted from Miss Alcott's famous stories, "Little Men" and
@@ -22202,16 +22203,39 @@ LITTLE, BROWN, & COMPANY, Publishers
 
                           Transcriber's Notes:
 
+
+Project Gutenberg has two versions of Little Women by Louisa May Alcott.
+   Original Edition
+   Illustrated Edition
+
+Welcome to the Project Gutenberg Illustrated Edition of Little Women by
+Louisa May Alcott, published by Little, Brown, and Company. Some
+versions of the book, such as this one, use the full title of the book
+from the title page, _Little Women; Or Meg, Jo, Beth, and Amy_.
+
+We used the version of the book from Little, Brown, and Company:
+copyright 1896, for this transcription. A scanned copy of this book is
+available through the internet archive, courtesy of the New York Public
+Library.
+
+A copy of the first version of the novel, published in 1869, was
+consulted for emendations, the proper rendering of words hyphenated and
+split between two lines for spacing, and other issues in transcribing
+the novel. We are not trying to change this version of the novel back to
+the 1869 novel, but correct the errors that were made in re-transcribing
+and updating the text.
+
 Passages in italics were indicated by _underscores_.
 
 Passages in bold were indicated by =equal signs=.
 
 Small caps were replaced with ALL CAPS.
 
-Throughout the document, the oe ligature was replaced with "oe".
-
 Throughout the dialogues, there were words used to mimic accents of
 the speakers. Those words were retained as-is.
+
+Errors in punctuations and hyphenation were not corrected unless
+otherwise noted below.
 
 A note about spacing of illustrations: If there are four lines above the
 illustration, then the illustration was at the top of a new chapter. If
@@ -22220,62 +22244,269 @@ at the end of a chapter. If there is two lines between a chapter heading
 and the illustration, then the illustration was an inline illustration
 (usually a drop-cap illustration).
 
-Errors in punctuations and hyphenation were not corrected unless
-otherwise noted below.
-
 The illustrations have been moved so that they do not break up
-paragraphs and so that they are next the text they illustrate, thus the
-page number of the illustration might not match the page number in the
-List of Illustrations.
+paragraphs and so that they are next to the text they illustrate, thus
+the page number of the illustration might not match the page number in
+the List of Illustrations.
 
-In the list of illustrations, for the illustration on page 147,
+On page vii, in the Table of Contents, change page 7 to 1 for the
+beginning of Chapter One.
+
+In the List of Illustrations, for the illustration on page 147,
 "postmistress" was replaced with "post-mistress".
 
-In the list of illustrations, for the illustration on page 235,
+In the List of Illustrations, for the illustration on page 235, 
 "tea-pot" was replaced with "teapot".
 
-On page 40, a period was added after "room where old Mr".
+On page 30, the punctuation after 'stained they are' may be a colon, but
+on page 41 of the 1869 book, it is a semicolon. We used the semi-colon. 
 
-On page 109, a period was added after "asked another voice".
+On page 34, transcribe red-headed with the hyphen. See page 44 of the
+1869 novel.
 
-On page 128, a period was added after "it is nearly school time".
+On page 40, a period was added after "room where old Mr". See page 50 of
+the 1869 novel.
 
-On page 150, "Betty" was replaced with "Bethy".
+On page 41, the semicolon after "Laurie went on the box" was replaced
+with a comma. See page 52 of the 1869 novel.
 
-On page 158, a period was added after "still kneeling".
+On page 62, mantel-piece was transcribed with the hyphen. See Page 75 of
+the 1869 novel.
 
-On page 185, "receptable" was replaced with "receptacle".
+On page 63, checked the clause "and I've been trying to do it this ever
+so long." It is written the same way on page 77 of the 1869 book. No
+change was made.
+
+On page 64, add period after "red and shining with merriment." See page
+79 of the 1869 book.
+
+On page 68, changed weet to sweet in 'the damp weet air.' See page 84 of
+the 1869 novel.
+
+On page 79, add comma after I remain in the letter. See page 95 of the
+1869 novel.
+
+On page 84, ferrule was an adjustment from the 1869 book, which only
+used one r in spelling the word (see page 101). Webster's dictionary
+spells ferrule with two rs.
+
+On page 109, a period was added after "and the old man quite dotes on
+them". See page 130 of the 1869 novel.
+
+On page 109, a period was added after "asked another voice". See page
+131 of the 1869 novel.
+
+On page 112, change colon to semicolon after "if you don't;"--see page
+134 of the 1869 novel.
+
+On page 113, transcribe ear-rings with the hyphen. See page 135 of the
+1869 novel.
+
+On Page 123, "One thing remember, my girls:" is written as it appears in
+the 1896 novel. A comma instead of a colon was used after my girls in
+the 1869 novel (see page 146). "One thing =to= remember," may work
+better today, or even "Remember one thing," but we left this as Ms.
+Alcott wrote it.
+
+On Page 124, the P. C. is the Pickwick Club from a novel by Charles
+Dickens. Samuel Pickwick, Tracy Tupman, Augustus Snodgrass, and
+Nathaniel Winkle were introdued by Charles Dickens in the first chapter
+of The Pickwick Papers. Samuel Weller makes his first appearance in
+Chapter Ten of that novel.
+
+On page 128, in the Pickwick Portfolio, there is no period after "it is
+nearly school time" in N. Winkle's letter. This period was also missing
+on page 151 of the 1869 novel. The missing period was intentional.
+
+On page 135, the ambiguous punctuation after "Oh, dear, no!" is an
+exclamation point. See page 160 of the 1869 novel.
+
+On page 146, change buttonholes to button-holes. On page 173 of the 1869
+novel, this word was hyphenated and split between two lines for spacing.
+There were seven other occurrences of button-hole or button-holes in the
+novel.  We therefore used the hyphen.
+
+On page 150, "Betty" was replaced with "Bethy". This error was also made
+in the 1869 novel--see page 177. The character addressed is Beth. 
+
+On page 158, a period was added after "still kneeling". See page 187 of
+the 1869 novel.
+
+On page 160, "hard a lee" is spelled the same way in the 1869 novel (see
+page 189) and this novel. We left this as is.
+
+On page 166, a comma was added after "Meg" in "Meg obediently
+following". See page 195 of the 1869 book.
+
+On page 185, "receptable" was replaced with "receptacle". See page 217
+of the 1869 novel.
+
+On page 185, transcribe door-way with the hyphen. See page 217 of the
+1869 novel. Also, change doorway to door-way a few lines down the same
+page. See page 218 of the 1869 novel.
 
 On page 189, the comma after "published every day" was replaced with a
-period.
+period. See page 225 of 1869 book.
 
-On page 209, "turnovers" was replaced with "turn-overs".
+On page 198, the clause: "Beth, go and ask Mr. Laurence for a couple of
+bottles of old wine:" was written as it appeared in the 1896 novel. The
+clause ended in with a semi-colon in the 1869 book (see page 234). 
+
+On page 200, change needlework to needle-work. See page 236 of the 1869
+novel.
+
+On page 209, "turnovers" was replaced with "turn-overs". See page 246 of
+the 1869 novel.
 
 On page 214, the single quotation mark before "Head Nurse of Ward" was
-replaced with a double quotation mark.
+replaced with a double quotation mark. See page 252 of the 1869 novel.
 
-On page 286, "actingly" was replaced with "acting".
+On page 218, "Year's ago" was replaced with "Years ago". See page 257 of
+the 1869 novel.
 
-On page 339, "shortcomings" was replaced with "short-comings".
+On page 219, "ask him so help" was replaced with "ask him to help". See
+page 257 of the 1869 novel.
+
+On page 219, add period after "give it to her." See page 258 of the 1869
+novel. 
+
+On page 230, "two, A.M." is spelled the same way, with the comma, in
+this book and in the 1869 novel (on page 272). The comma was retained.
+
+On page 244, "postscrips" was replaced with "postscripts". See page 287
+of the 1869 novel.
+
+On page 279, place exclamation point after won't in 'No, I won't!' See
+page 329 in the 1869 novel.
+
+On page 286, "actingly" was replaced with "acting". See page 337 of the
+1869 novel.
+
+On page 288, add comma after mankind in the clause "who felt at peace
+with all mankind even his mischievous pupil." See page 339 of the 1869
+novel.
+
+On page 294, transcribe gray-headed with the hyphen. See page 5 of the
+1869 novel.
+
+On page 295, add a comma after salary in the phrase "with an
+honestly-earned salary." See page 7 of the 1869 book.
+
+Checked the clause "But once get used to these slight blemishes" on page
+297. The sentence appears the same way on page 10 of the 1869 novel. 
+
+Checked the clause "People who hire all these things done for them never
+know what they lose" on page 298. The sentence has a comma after them,
+but is otherwise written the same way on page 11 of the 1869 novel.
+
+On page 299, transcribe door-handles with the hyphen. See page 13 of the
+1869 novel.
+
+On page 339, "shortcomings" was replaced with "short-comings". See page
+62 of the 1869 novel.
+
+On page 345, "furbelows and notions" was written "furbelows and
+quinny-dingles" in the 1869 novel. See page 59 of the 1869 novel. We
+made no change, and only point this out because quinny-dingles is such a
+memorable word that those intimate with the novel may notice the change.
+
+On page 353, change snowbank to snow-bank. See page 79 of the 1869
+novel.
 
 On page 363, a double quotation mark was added before "Cross-patch, draw
-the latch".
+the latch". See page 91 of the 1869 book.
 
-On page 380, a comma was added after "all lying down".
+On page 379, change period after Jo to a comma in the clause "as for Jo.
+she would have gone up". See page 109 of the 1869 book.
 
-On page 382, a quotation mark was added before "Cross-patch, draw the
-latch,"
+On page 380, a comma was added after "all lying down". See page 111 of
+the 1869 book.
 
-On page 451, a period was added after "I can't let you go".
+On page 393, the punctuation after 'but so was everybody's' is difficult
+to read. It could be a colon or semicolon. In the 1869 novel, the mark
+is a semi-colon (see page 126). We used the semi-colon.
 
-On page 512, a period was added after "she said softly".
+On page 396, the second line of the verse beginning with "'Out upon
+you," is indented. In the 1869 version, the capital B of "Bold-faced
+jig!'" is lined-up under Out. We aligned the verse as the 1869 version
+of the novel--see page 131.
+
+On page 404, add period after heaviness. See page 140 of the 1869 novel.
+
+On page 405, transcribe needle-work with the hyphen. See page 141 of the
+1869 book.
+
+On Page 411, a letter is curiously addressed to Betsey, both here and on
+page 148 of the 1869 book. 
+
+On Page 413, removed double quotes around Yes in "Yes," they say to one
+another, these so kind ladies. Instead, place a single quote in front of
+Yes, because Bhaer is resuming his quote. The resumed quote concludes
+with a single quote after me and mine. See page 151 of the 1869 novel.
+The double quote before 'he is a stupid old fellow' is actually a
+triple-nested quote, ending in make themselves.
+
+On page 417, transcribe Teddy-ism as Teddyism. See page 155 of the 1869
+novel.
+
+On page 451, a period was added after "I can't let you go". See page 196
+of the 1869 novel.
+
+On page 463, "Tarantula" was used as the name of a dance, but the author
+might have meant "Tarantella," which is the name of an Italian dance
+about tarantulas.
+
+On page 468, transcribe chess-board with the hyphen. See page 218 of the
+1869 novel.
+
+On page 512, a period was added after "she said softly". If you see page
+272 of the 1869 novel, you will also notice a comma in 'she said,
+softly.' We added the period but not the comma.
+
+On page 514, the 1869 novel did not have a comma after oar in the
+sentence: "I'm not tired; but you may take an oar, if you like. See page
+525 of the 1869 novel. We did not remove the comma.
+
+On page 527, "the 'the best nevvy" was replaced with "the best nevvy".
+
+On page 527, change he to the in 'like Jenny and he ballad'. See page
+291 of the 1869 novel.
+
+On page 531, David and Peggotty refer to two characters from the novel
+"David Copperfield" by Charles Dickens.
+
+On page 534, change of to off in the clause: Daisy found it impossible
+to keep her eyes of her "pitty aunty," ... see page 300 of the 1869
+novel.
+
+On page 541, "know'st thou the land where the citron blooms," was broken
+into two stanzas in the book for spacing. We transcribed this as one
+line. See page 308 in 1869 novel.
+
+On page 551, transcribe Dove-cote with the hyphen. See page 319 of the
+1869 novel.
 
 On the first page of ads, a period was added after "THE LITTLE WOMEN
 SERIES. New Illustrated Edition".
 
-On the second page of ads, in the blurb for the book Comic Tragedies,
-a period as placed after "Portraits, etc".
+On the second page of ads, in the blurb for the book Comic Tragedies, a
+period as placed after "Portraits, etc".
 
+After the novel is a list of The Works of Louisa May Alcott. The list is
+not complete: for example, there are no listings for her work as Flora
+Fairfield or A. M. Barnard. Nevertheless, the pages are a fine
+structured outline of Ms. Alcott's best work.
+
+Most of the novels and stories in these four pages are published by
+Project Gutenberg. We included links to these titles for the reader's
+convenience. A change had to be made for one item: We had to list each
+of the three volumes of Lulu's Library to provide the links to that
+book. These links will only work in the HTML document.
+
+The final page is a listing of eleven stories originally published in
+other volumes, such as Jo's Scrap-Bag, Lulu's Library, and A Garland for
+Girls. These works were subsequently published separately in small
+volumes, generally less than 100 pages, in The Children's Friend Series. 
 
 
 
@@ -22284,15 +22515,10 @@ End of the Project Gutenberg EBook of Little Women, by Louisa M. Alcott
 
 *** END OF THIS PROJECT GUTENBERG EBOOK LITTLE WOMEN ***
 
-***** This file should be named 37106.txt or 37106.zip *****
+***** This file should be named 37106-8.txt or 37106-8.zip *****
+
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/3/7/1/0/37106/
-
-Produced by David Edwards, Ernest Schaal, and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -22302,8 +22528,8 @@ one owns a United States copyright in these works, so the Foundation
 (and you!) can copy and distribute it in the United States without
 permission and without paying copyright royalties.  Special rules,
 set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+copying and distributing Project Gutenberg™ electronic works to
+protect the PROJECT GUTENBERG™ concept and trademark.  Project
 Gutenberg is a registered trademark, and may not be used if you
 charge for the eBooks, unless you receive specific permission.  If you
 do not charge anything for copies of this eBook, complying with the
@@ -22321,53 +22547,54 @@ redistribution.
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
-To protect the Project Gutenberg-tm mission of promoting the free
+To protect the Project Gutenberg™ mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
+Gutenberg™ License (available with this file or online at
 http://gutenberg.org/license).
 
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+Section 1.  General Terms of Use and Redistributing Project Gutenberg™ 
 electronic works
 
-1.A.  By reading or using any part of this Project Gutenberg-tm
+1.A.  By reading or using any part of this Project Gutenberg™
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement.  If you do not agree to abide by all
 the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
+all copies of Project Gutenberg™ electronic works in your possession.
 If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
+Gutenberg™ electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
+things that you can do with most Project Gutenberg™ electronic works
 even without complying with the full terms of this agreement.  See
 paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
+Gutenberg™ electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg™ electronic
 works.  See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
+1.C.  The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection of
+Project Gutenberg™ electronic works.  Nearly all the individual works
+in the collection are in the public domain in the United States.  If an
 individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
+located in the United States, we do not claim a right to prevent you
+from copying, distributing, performing, displaying or creating
+derivative works based on the work as long as all references to Project
+Gutenberg are removed.  Of course, we hope that you will support the
+Project Gutenberg-tm mission of promoting free access to electronic
+works by freely sharing Project Gutenberg™ works in compliance with
+the terms of this agreement for keeping the Project Gutenberg™ name
+associated with the work.  You can easily comply with the terms of this
+agreement by keeping this work in the same format with its attached full
+Project Gutenberg™ License when you share it without charge with
+others.
 
 1.D.  The copyright laws of the place where you are located also govern
 what you can do with this work.  Copyright laws in most countries are in
@@ -22382,8 +22609,8 @@ States.
 1.E.  Unless you have removed all references to Project Gutenberg:
 
 1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
+access to, the full Project Gutenberg™ License must appear prominently
+whenever any copy of a Project Gutenberg™ work (any work on which the
 phrase "Project Gutenberg" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
@@ -22393,7 +22620,7 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+1.E.2.  If an individual Project Gutenberg™ electronic work is derived
 from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
@@ -22401,50 +22628,50 @@ or charges.  If you are redistributing or providing access to a work
 with the phrase "Project Gutenberg" associated with or appearing on the
 work, you must comply either with the requirements of paragraphs 1.E.1
 through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or
 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E.3.  If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
 terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
+to the Project Gutenberg™ License for all works posted with the
 permission of the copyright holder found at the beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg™
 License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
+work or any other work associated with Project Gutenberg™.
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
+Gutenberg™ License.
 
 1.E.6.  You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
+distribute copies of a Project Gutenberg™ work in a format other than
 "Plain Vanilla ASCII" or other format used in the official version
 posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
 request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
+form.  Any alternate format must include the full Project Gutenberg™
 License as specified in paragraph 1.E.1.
 
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
+performing, copying or distributing any Project Gutenberg™ works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
+access to or distributing Project Gutenberg™ electronic works provided
 that
 
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
+ •  You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg™ works calculated using the method
      you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+     owed to the owner of the Project Gutenberg™ trademark, but he
      has agreed to donate royalties under this paragraph to the
      Project Gutenberg Literary Archive Foundation.  Royalty payments
      must be paid within 60 days following each date on which you
@@ -22454,47 +22681,46 @@ that
      address specified in Section 4, "Information about donations to
      the Project Gutenberg Literary Archive Foundation."
 
-- You provide a full refund of any money paid by a user who notifies
+ •  You provide a full refund of any money paid by a user who notifies
      you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
+     does not agree to the terms of the full Project Gutenberg™
      License.  You must require such a user to return or
      destroy all copies of the works possessed in a physical medium
      and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
+     Project Gutenberg™ works.
 
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
+ • You provide, in accordance with paragraph 1.F.3, a full refund of any
      money paid for a work or a replacement copy, if a defect in the
      electronic work is discovered and reported to you within 90 days
      of receipt of the work.
 
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+ • You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg™ works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg™
 electronic work or group of works on different terms than are set
 forth in this agreement, you must obtain permission in writing from
 both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Hart, the owner of the Project Gutenberg™ trademark.  Contact the
 Foundation as set forth in Section 3 below.
 
 1.F.
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
+public domain works in creating the Project Gutenberg™ collection.
+Despite these efforts, Project Gutenberg™ electronic works, and the
+medium on which they may be stored, may contain "Defects," such as, but
+not limited to, incomplete, inaccurate or corrupt data, transcription
+errors, a copyright or other intellectual property infringement, a
+defective or damaged disk or other medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
 fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
@@ -22532,19 +22758,19 @@ provision of this agreement shall not void the remaining provisions.
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
+providing copies of Project Gutenberg™ electronic works in accordance
 with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
+promotion and distribution of Project Gutenberg™ electronic works,
 harmless from all liability, costs and expenses, including legal fees,
 that arise directly or indirectly from any of the following which you do
 or cause to occur: (a) distribution of this or any Project Gutenberg-tm
 work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
+Project Gutenberg™ work, and (c) any Defect you cause.
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section  2.  Information about the Mission of Project Gutenberg™
 
-Project Gutenberg-tm is synonymous with the free distribution of
+Project Gutenberg™ is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
 including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
@@ -22555,11 +22781,10 @@ assistance they need, are critical to reaching Project Gutenberg-tm's
 goals and ensuring that the Project Gutenberg-tm collection will
 remain freely available for generations to come.  In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
+and permanent future for Project Gutenberg™ and future generations.
 To learn more about the Project Gutenberg Literary Archive Foundation
 and how your efforts and donations can help, see Sections 3 and 4
 and the Foundation web page at http://www.pglaf.org.
-
 
 Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
@@ -22590,7 +22815,7 @@ For additional contact information:
 Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without wide
+Project Gutenberg™ depends upon and cannot survive without wide
 spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
 freely distributed in machine readable form accessible by the widest
@@ -22622,20 +22847,18 @@ ways including checks, online payments and credit card donations.
 To donate, please visit: http://pglaf.org/donate
 
 
-Section 5.  General Information About Project Gutenberg-tm electronic
+Section 5.  General Information About Project Gutenberg™ electronic
 works.
 
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+Professor Michael S. Hart is the originator of the Project Gutenberg™
 concept of a library of electronic works that could be freely shared
 with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
+Gutenberg™ eBooks with only a loose network of volunteer support.
 
-
-Project Gutenberg-tm eBooks are often created from several printed
+Project Gutenberg™ eBooks are often created from several printed
 editions, all of which are confirmed as Public Domain in the U.S.
 unless a copyright notice is included.  Thus, we do not necessarily
 keep eBooks in compliance with any particular paper edition.
-
 
 Most people start at our Web site which has the main PG search facility:
 
